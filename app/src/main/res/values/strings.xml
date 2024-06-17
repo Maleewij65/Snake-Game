@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="game_over_play_again">Game Over ! Play Again</string>
+    <string name="new_game">Level 1</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="game_over_play_again1">Game Over ! Play Again</string>
+    <string name="up">UP</string>
+    <string name="left">LEFT</string>
+    <string name="pause">pause</string>
+    <string name="right">RIGHT</string>
+    <string name="down">DOWN</string>
+    <string name="level_2">Level 2</string>
+    <string name="highest_score">Highest Score:</string>
+    <string name="snake_game">Snake Game</string>
+    <string name="level_2_text">Level 2</string>
+    <string name="up_2level">Up</string>
+    <string name="left_2level">Left</string>
+    <string name="pause_2level">Pause</string>
+    <string name="right_2level">Right</string>
+    <string name="down_2level">Down</string>
+    <string name="obstacle_2level">Obstacle</string>
+</resources>
